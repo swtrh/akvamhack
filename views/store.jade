@@ -2,7 +2,7 @@ extends layout
 
 block content
   h1= title
-  p Keep the flow #{title}
+  p Keep the flow now #{title}
   form(action='#{messageURL}', method='post')
     input(type="text",name="message", placeholder="Enter a message", size="40")
     input(type='submit', name='submit', value='Submit')
