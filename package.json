@@ -1,0 +1,14 @@
+{
+  "name": "akvammyappl",
+  "version": "1.0.0",
+  "description": "This is a test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
