@@ -6,4 +6,4 @@ app.get('/', function (req, res) {
 })
 
 app.listen(3000);
-console.log("I have started");
+console.log("I have started please stop me when needed");
