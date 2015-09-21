@@ -4,7 +4,8 @@
   "description": "This is a test ",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start":"node index.js"
   },
   "author": "",
   "license": "ISC",
